@@ -1,4 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=120&color=timeGradient&section=header)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=timeGradient&section=header">
+  <p>👋 안녕하세요. 차근차근 성장하는 백엔드 개발자입니다.</p>
+</div>
 
 ## 🛠️Stacks
 <div align="center">
@@ -33,20 +36,25 @@
 </div>
 
 ## ✨Projects
+<div align="center">
 
-### 2️⃣0️⃣2️⃣4️⃣
+  ### 2️⃣0️⃣2️⃣4️⃣
 | NAME                                                               | DESCRIPT                 | STACK           |
 |:-------------------------------------------------------------------|:-------------------------|:----------------------------------|
-| [Album30](https://github.com/2024WISCOM)                           | 중고 앨범 거래 서비스             | <img width="135px" src="https://skillicons.dev/icons?i=react,spring,aws,docker&perline=4&theme=light"> |
+| [Album30](https://github.com/orgs/Album30/repositories)                           | 중고 앨범 거래 서비스             | <img width="135px" src="https://skillicons.dev/icons?i=react,spring,aws,docker&perline=4&theme=light"> |
 | [Bwither](https://github.com/20210699/Bwither-Back-end)            | 반려동물 분양 커뮤니티 서비스         | <img width="60px" src="https://skillicons.dev/icons?i=spring,aws&perline=2&theme=light">               |
 | [돔황챠!](https://github.com/20210699/RunAway)                            | 재난 상황 발생 시 대피소 정보 제공 서비스 | <img width="90px" src="https://skillicons.dev/icons?i=kotlin,firebase,androidstudio&perline=3&theme=light">        |
-| [It's short time!](https://github.com/20210699/ShortTime) | 덕성여자대학교 진로탐색프로젝트         | <img width="30px" src="https://skillicons.dev/icons?i=flask&perline=5&theme=light">                    |
+| [It's short time!](https://github.com/20210699/ShortTime) | 덕성여자대학교 진로탐색학점제 🥈         | <img width="90px" src="https://skillicons.dev/icons?i=flask,opencv,pytorch&perline=3&theme=light">                    |
 
-## 📬Contact
-<div>
-  <img src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=20210699%40duksung.ac.kr">
- <img src="https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.com%2Fusers%2F472597836878577674">
- <img src="https://img.shields.io/badge/velog-%2320C997?style=for-the-badge&logo=velog&logoColor=white&link=https%3A%2F%2Fvelog.io%2F%4020210699%2Fposts">
+  
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=80&color=timeGradient&section=footer)
+<div align="center">
+  <br>
+  <br>
+  <h4>📬Contact</h4>
+  <img src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=20210699%40duksung.ac.kr">
+ <img src="https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.com%2Fusers%2F472597836878577674">
+ <img src="https://img.shields.io/badge/velog-%2320C997?style=for-the-badge&logo=velog&logoColor=white&link=https%3A%2F%2Fvelog.io%2F%4020210699%2Fposts"><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=timeGradient&section=footer">
+</div>
