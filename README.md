@@ -41,7 +41,8 @@
   ### 2️⃣0️⃣2️⃣4️⃣
 | NAME                                                               | DESCRIPT                 | STACK           |
 |:-------------------------------------------------------------------|:-------------------------|:----------------------------------|
-| [Album30](https://github.com/orgs/Album30/repositories)                           | 중고 앨범 거래 서비스             | <img width="135px" src="https://skillicons.dev/icons?i=react,spring,aws,docker&perline=4&theme=light"> |
+| [Album30](https://github.com/orgs/Album30/repositories)                           | 중고 앨범 거래 서비스             | <img width="120px" src="https://skillicons.dev/icons?i=react,spring,aws,docker&perline=4&theme=light"> |
+| [마음말](https://github.com/VLC2024/BE)                           | 프로보노ICT 공모전 출품작     | <img width="60px" src="https://skillicons.dev/icons?i=spring,aws&perline=2&theme=light"> |
 | [Bwither](https://github.com/20210699/Bwither-Back-end)            | 반려동물 분양 커뮤니티 서비스         | <img width="60px" src="https://skillicons.dev/icons?i=spring,aws&perline=2&theme=light">               |
 | [돔황챠!](https://github.com/20210699/RunAway)                            | 재난 상황 발생 시 대피소 정보 제공 서비스 | <img width="90px" src="https://skillicons.dev/icons?i=kotlin,firebase,androidstudio&perline=3&theme=light">        |
 | [It's short time!](https://github.com/20210699/ShortTime) | 덕성여자대학교 진로탐색학점제 🥈         | <img width="90px" src="https://skillicons.dev/icons?i=flask,opencv,pytorch&perline=3&theme=light">                    |
